@@ -2,3 +2,4 @@
 Add your ideas below!
 
 * make a page that includes a timeline of how far the website has gone
+* I made a change :) - Ashton
